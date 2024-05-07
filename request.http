@@ -1,0 +1,13 @@
+POST http://localhost:5000/todo/
+Content-Type: application/json
+
+{
+    "title": "Learn Python",
+    "description": "Learn how to crean an API with Python and Flask"
+}
+
+
+GET http://localhost:5000/todo/
+
+
+
